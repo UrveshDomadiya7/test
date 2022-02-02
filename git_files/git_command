@@ -1,0 +1,18 @@
+git log
+git status
+git branch
+git branch -r
+git branch -a
+git branch --verbose
+git init
+git add 
+git commit
+git remote add origin
+git push origin main
+git clone
+git branch -M main
+git remote
+git remote --verbose
+git checkout -b name
+git checkout name
+git rm --cached trainee-practical-devops
